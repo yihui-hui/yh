@@ -1,0 +1,11 @@
+.logo{
+    float:right;
+}
+.list{
+    background-color:#FFF2F1;
+    float:left;
+    border-style: solid;
+}
+.footer{
+    clear: both;
+}
